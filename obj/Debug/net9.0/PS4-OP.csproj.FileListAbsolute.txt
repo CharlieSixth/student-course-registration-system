@@ -1,0 +1,5 @@
+C:\Users\karol\.vscode\c#-po-studia\AppConOP3\PS4-OP\obj\Debug\net9.0\PS4-OP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karol\.vscode\c#-po-studia\AppConOP3\PS4-OP\obj\Debug\net9.0\PS4-OP.AssemblyInfoInputs.cache
+C:\Users\karol\.vscode\c#-po-studia\AppConOP3\PS4-OP\obj\Debug\net9.0\PS4-OP.AssemblyInfo.cs
+C:\Users\karol\.vscode\c#-po-studia\AppConOP3\PS4-OP\obj\Debug\net9.0\PS4-OP.csproj.CoreCompileInputs.cache
+C:\Users\karol\.vscode\c#-po-studia\AppConOP3\PS4-OP\obj\Debug\net9.0\PS4-OP.sourcelink.json
